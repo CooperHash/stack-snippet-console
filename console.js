@@ -37,7 +37,7 @@
 
     style.type = "text/css";
     style.textContent = [
-        ".as-console-wrapper { position: fixed; bottom: 0; left: 0; right: 0; max-height: 150px; overflow-y: scroll; overflow-x: hidden; border-top: 1px solid #000; display: none; background: #fff; }",
+        ".as-console-wrapper { position: fixed; bottom: 0; left: 0; right: 0; max-height: 450px; overflow-y: scroll; overflow-x: hidden; border-top: 1px solid #000; display: none; background: #fff; }",
         ".as-console-wrapper.as-console-maximized { top: 0px; max-height: inherit; display:block; background: #fff; border-top: none;  }",
         ".as-console { border: 1px solid #f0f0f0; display: table; width: 100%; border-collapse: collapse; }",
         ".as-console-row { display: table-row; font-family: monospace; font-size: 10pt; }",
